@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=icaroccaetano&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/icaroccaetano/github-readme-stats#gh-dark-mode-only)
