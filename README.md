@@ -4,6 +4,6 @@ I'm Icaro, a Computer Science student at the Federal University of Goiás (UFG).
 
 --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroccaetano)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=icaroccaetano&" alt="icaroccaetano](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroccaetano))" /></p>
+<p><img align="center" src="[[https://github-readme-streak-stats.herokuapp.com/?user=icaroccaetano&](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroccaetano)"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icaroccaetano&" alt="icaroccaetano" /></p>
