@@ -1,5 +1,5 @@
-# Hi 😄
-
-I'm Icaro, Computer Science student at the Federal University of Goiás (UFG). I also work with focus in Acces, and Visual Basic. I love programming, here I commit projects from my personal studies. I hope you enjoy!
+Hi, I'm Icaro 👋  
+Python Developer | Sharing projects from my personal studies.  
+Enjoy exploring my repos!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroccaetano&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
